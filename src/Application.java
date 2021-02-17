@@ -16,8 +16,6 @@ public class Application {
             result = a*b;
         }
 
-
-
-        System.out.println(result);
+        System.out.printf("Result: %d", result);
     }
 }
